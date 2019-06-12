@@ -1,0 +1,41 @@
+p{
+    margin:0 auto;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    width: 25%;
+    border-bottom: 2px solid rgba(95, 83, 83, 0.5);
+    padding-bottom: 15px;
+    text-align: center;
+
+}
+
+div{
+    width: 30%;
+    float:left;
+    margin:1.4%;
+    border: 2.5px gray solid;
+    text-align: center;
+}
+
+div:hover{
+    border-color: rgb(176, 184, 63);;
+    cursor: pointer;
+    color: rgb(176, 184, 63);
+}
+
+div p{
+    width: 100%;
+    margin: 0 auto;
+    border-bottom: none;
+    font-size: 15px;
+}
+
+/* div p:hover{
+    color:rgb(99, 214, 99);
+} */
+
+img {
+    width: 100%;
+}
+
